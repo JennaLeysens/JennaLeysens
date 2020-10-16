@@ -1,4 +1,5 @@
 <img src="./jennaleysens.gif">
+<a href="https://www.linkedin.com/in/jenna-leysens/" target="_blank"><img src="./LinkedIn.png"></a>
 
 <!--
 **JennaLeysens/JennaLeysens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
