@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jenna-leysens/" target="_blank"><img src="./LinkedIn.png"></a>
 <a href="https://github.com/JennaLeysens/yummy-start-client" target="_blank"><img src="./YummyStart.png"></a>
 <a href="https://github.com/mipes4/wander-and-wonder-client" target="_blank"><img src="./Wander&Wonder.png"></a>
-<body><p>Hello, I'm Jenna! </p></body>
+<body><p>Hello, I'm Jenna! I recently graduated from Codaisseur Academy in Amsterdam as a Full Stack Developer. </p><p>Take a look at my projects if you would like to see what I've worked on ↖</p><p>I'm particularly interested in frontend development and I'm continuing to build on my coding skills through new projects ✨ </p></body>
 
 <!--
 **JennaLeysens/JennaLeysens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
