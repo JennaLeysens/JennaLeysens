@@ -1,5 +1,8 @@
 <img src="./jennaleysens.gif">
 <a href="https://www.linkedin.com/in/jenna-leysens/" target="_blank"><img src="./LinkedIn.png"></a>
+<a href="https://github.com/JennaLeysens/yummy-start-client" target="_blank"><img src="./YummyStart.png"></a>
+<a href="https://github.com/mipes4/wander-and-wonder-client" target="_blank"><img src="./Wander&Wonder.png"></a>
+<body><p>Hello, I'm Jenna! </p></body>
 
 <!--
 **JennaLeysens/JennaLeysens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
