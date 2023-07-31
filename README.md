@@ -1,6 +1,8 @@
 <img src="./jennaleysens.gif">
-<a href="https://www.linkedin.com/in/jenna-leysens/" target="_blank"><img src="./LinkedIn.png"></a>
-<body><p>Hello, I'm Jenna! I recently graduated from Codaisseur Academy in Amsterdam as a Full Stack Developer. </p><p>Take a look at my projects if you would like to see what I've worked on ↖  I'm particularly interested in frontend development and I'm continuing to build on my coding skills through new projects ✨</p> </body>
+<body>
+  <p>Hello, I'm Jenna! I'm a freelance UX Writer and Technical Writer.</p>
+- Linguist and frontend developer
+</body>
 
 <!--
 **JennaLeysens/JennaLeysens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
