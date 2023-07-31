@@ -1,9 +1,7 @@
 <img src="./jennaleysens.gif">
-<body>
-  <p>Hello, I'm Jenna! I'm a freelance UX Writer and Technical Writer.</p>
-- Linguist and frontend developer
-</body>
+<p>Hello, I'm Jenna! I'm a freelance UX Writer and Technical Writer.</p>
 
+- Linguist and frontend developer
 <!--
 **JennaLeysens/JennaLeysens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
